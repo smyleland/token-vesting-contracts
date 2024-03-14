@@ -3,10 +3,10 @@
 pragma solidity ^0.8.19;
 
 // OpenZeppelin dependencies
-import {ERC20} from "solmate/tokens/ERC20.sol";
-import {Owned} from "solmate/auth/Owned.sol";
-import {SafeTransferLib} from "solmate/utils/SafeTransferLib.sol";
-import {ReentrancyGuard} from "solmate/utils/ReentrancyGuard.sol";
+import {ERC20} from "https://github.com/transmissions11/solmate/blob/main/src/tokens/ERC20.sol";
+import {Owned} from "https://github.com/transmissions11/solmate/blob/main/src/auth/Owned.sol";
+import {SafeTransferLib} from "https://github.com/transmissions11/solmate/blob/main/src/utils/SafeTransferLib.sol";
+import {ReentrancyGuard} from "https://github.com/transmissions11/solmate/blob/main/src/utils/ReentrancyGuard.sol";
 
 /**
  * @title TokenVesting
