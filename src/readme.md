@@ -12,8 +12,7 @@ The cliff period starts from 1 March 2023. Angel investors will receive the firs
 
 2023-03-01  2024-03-01  2025-03-01  2026-03-01  2027-03-01  2028-03-01
 0 mo        12 mo       24 mo       36 mo       48 mo       60 mo
-.............................................................
-^           ^           ^           ^           ^           ^
+|...........|...........|...........|...........|...........|
 Start       1st vest    2nd vest    3rd vest    4th vest    5th vest
 0%          20%         20%         20%         20%         20%
 
