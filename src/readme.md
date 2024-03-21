@@ -1,7 +1,4 @@
-# Requirements for Vesting
-
-## Token
-Total supply of 1,000,000,000 Smyle Tokens.
+# Requirements for Token Vesting
 
 ## Cliff Vesting Period
 Angel investors get 1-year cliff and 5-year vesting schedule.
@@ -23,7 +20,12 @@ Start       1st vest    2nd vest    3rd vest    4th vest    5th vest
 4. Lockup period (NO Trade) for all token
 5. No short sell (#days)
 
-# Vesting Smart Contract Features
+# SmyleLand Token Smart Contract
+Name: SmyleLand
+Symbol: SMY
+Total supply of 1,000,000,000 SmyleLand Tokens.
+
+# Token Vesting Smart Contract
 
 ## External Methods
 
